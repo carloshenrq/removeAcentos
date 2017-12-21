@@ -55,7 +55,7 @@ namespace removeAcentos
             "A", "a", "E", "e",
             "I", "i", "O", "o",
             "U", "u", "C", "c",
-            "\"", "\"",
+            "'", "'",
         }.ToArray();
     }
 }
